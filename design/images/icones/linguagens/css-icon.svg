@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Css-3--Streamline-Svg-Logos" height="24" width="24">
-  <desc>
-    Css 3 Streamline Icon: https://streamlinehq.com
-  </desc>
-  <path fill="#264de4" d="M11.9898 23.749975 5.1907 21.8625l-1.515175 -16.994225h16.648925l-1.51675 16.991575 -6.8179 1.890125Z" stroke-width="0.25"></path>
-  <path fill="#2965f1" d="m17.5093 20.777875 1.296175 -14.520075H12.000125V22.30525l5.509175 -1.527375Z" stroke-width="0.25"></path>
-  <path fill="#ebebeb" d="m7.148925 12.560725 0.1868 2.08425h4.6642v-2.08425h-4.851Z" stroke-width="0.25"></path>
-  <path fill="#ebebeb" d="m6.773675 8.342175 0.189475 2.084275h5.0369v-2.084275H6.773675Z" stroke-width="0.25"></path>
-  <path fill="#ebebeb" d="m12.000025 17.9738 -0.009125 0.002425 -2.321275 -0.626775 -0.1484 -1.662325h-2.092275l0.292 3.272625 4.269475 1.185225 0.0096 -0.002675v-2.1685Z" stroke-width="0.25"></path>
-  <path fill="#000000" d="M7.593875 0.25h2.5244v1.055665h-1.46875v1.0556625h1.46875V3.417H7.593875V0.25Z" stroke-width="0.25"></path>
-  <path fill="#000000" d="M10.623175 0.25h2.5244v0.91797h-1.46875v0.1835925h1.46875v2.1113375H10.623175V2.4990225h1.46875v-0.1835925h-1.46875V0.25Z" stroke-width="0.25"></path>
-  <path fill="#000000" d="M13.652475 0.25h2.5244v0.91797h-1.46875v0.1835925h1.46875v2.1113375H13.652475V2.4990225h1.46875v-0.1835925h-1.46875V0.25Z" stroke-width="0.25"></path>
-  <path fill="#ffffff" d="m16.83765 12.560775 0.376275 -4.2186H11.9928v2.084275H14.92975l-0.18965 2.134325H11.9928v2.08425h2.56655l-0.241925 2.70315 -2.324625 0.627425v2.168425l4.272875 -1.184225 0.03135 -0.352125 0.489775 -5.4872 0.05085 -0.5597Z" stroke-width="0.25"></path>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="48px" height="48px" fill-rule="nonzero"><g fill-opacity="0" fill="#dddddd" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,256v-256h256v256z" id="bgRectangle"></path></g><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M41,5h-34l3,34l14,4l14,-4l3,-34z" fill="#0277bd"></path><path d="M24,8v31.9l11.2,-3.2l2.5,-28.7z" fill="#039be5"></path><path d="M33.1,13h-9.1v4h4.9l-0.3,4h-4.6v4h4.4l-0.3,4.5l-4.1,1.4v4.2l7.9,-2.6l0.7,-11.5v0z" fill="#ffffff"></path><path d="M24,13v4h-8.9l-0.3,-4zM19.4,21l0.2,4h4.4v-4zM19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1,-1.4z" fill="#eeeeee"></path></g></g></svg>
