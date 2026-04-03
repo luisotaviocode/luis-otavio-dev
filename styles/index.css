@@ -1,0 +1,147 @@
+:root{
+    --ink-black: #0a0e1aff;
+    --blue: #0d2affff;
+    --shadow-grey: #1c1c2eff;
+    --pale-slate: #d0d4dcff;
+    --full-white: #ffffff;
+    --tropical-mint: #00e5b0ff;
+}
+
+body{
+    background-color: var(--shadow-grey);
+    color: var(--full-white);
+    font-family: 'Geist Mono', 'JetBrains Mono';
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#header-portfolio{
+    background-color: var(--ink-black);
+    padding: 7.5px 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logotipo-header{
+    border-radius: 8px;
+    height: 45px;
+    width: 45px;
+}
+
+#hero{
+    padding: 9px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    text-align: center;
+}
+
+.info-view h1{
+    font-size: 3rem;
+    margin: 0 0 5px 0;
+    letter-spacing: 2%;
+}
+
+.info-view h2{
+    font-size: 1.5rem;
+    color: var(--pale-slate);
+    text-align: center;
+    margin: 0 0 5px 0;
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+}
+
+#image-container{
+    position: relative;
+    display: inline-block;
+}
+
+#hero-profile-image{
+    height: 280px;
+    width: auto;
+    border-radius: 10px;
+    transition: transform 0.5s ease;
+    margin: 10px;
+}
+
+.links-hero-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.midia-links-btns{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    border: none;
+    border-radius: 15px;
+    background-color: var(--blue);
+    text-decoration: none;
+    color: inherit;
+}
+
+.midias-icones{
+    height: 30px;
+    width: 30px;
+    display: block;
+    transition: all 0.5 ease-in;
+}
+
+.midias-icones:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+#destaque{
+    color: var(--tropical-mint);
+    font-family: 'JetBrains Mono';
+}
+
+#scroll-screen-paragraph{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#scroll-screen-paragraph-text{
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--tropical-mint);
+    text-align: center;
+}
+
+#scroll-down-icon{
+    height: 30px;
+    width: 30px;
+    display: block;
+    animation: scroll-down-icon 1.5s infinite;
+}
+
+@keyframes scroll-down-icon {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(5px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
